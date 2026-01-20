@@ -18,7 +18,7 @@ It converts miles to kilometers (1 mile = 1.609 km) with simple user interface.
 
 ---
 
-## Getting Started
+## Getting started
 
 This project was created using **Android Studio**
 To clone and open the project:
