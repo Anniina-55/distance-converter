@@ -1,1 +1,28 @@
 /build
+/app/build/
+
+# IDE files
+/.idea/
+/*.iml
+
+# Local configuration (SDK path)
+local.properties
+
+# Gradle cache and generated files
+/.gradle/
+/captures/
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Kotlin/Java compiled files
+*.class
+*.jar
+
+# Misc
+*.apk
+*.keystore

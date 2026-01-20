@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">DistanceConverter</string>
+    <string name="heading">Convert from miles to kilometers</string>
+    <string name="label">Miles</string>
+    <string name="error">Please enter some positive value to convert</string>
+    <!-- parameter "%1$" refers to miles and "%2$" refers to km, both rounded up to 2 decimals-->
+    <string name="result">%1$.2f miles is %2$.2f" kilometers</string>
 </resources>
